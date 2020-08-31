@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "926440250331",
+    "firebase_url": "https://loksewatayariquiz.firebaseio.com",
+    "project_id": "loksewatayariquiz",
+    "storage_bucket": "loksewatayariquiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926440250331:android:ce8de0ef230e273b18e5fe",
+        "android_client_info": {
+          "package_name": "com.suchana.loksewatayariquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926440250331-j2dn5h6ank0ocnrgcqttm5vrgstrdstg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV2_nka6-xccQH_-YnssxX14So3Mskyl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926440250331-j2dn5h6ank0ocnrgcqttm5vrgstrdstg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
